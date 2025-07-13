@@ -2,7 +2,7 @@ export default () => ({
   expo: {
     name: 'EchoStudy',
     slug: 'echostudy',
-    owner: 'tinosolutions', // 👈 critical for EAS builds
+    owner: 'tinosolutions', // 👈 critical for linking
     version: '1.0.0',
     ios: {
       bundleIdentifier: 'com.echostudy.app',
