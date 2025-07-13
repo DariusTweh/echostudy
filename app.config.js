@@ -19,7 +19,7 @@ export default ({ config }) => ({
     extra: {
       ...config.expo?.extra,
       SUPABASE_URL: 'https://tkgiyaibgehowhlzjxjd.supabase.co',
-      SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...',
+      SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRrZ2l5YWliZ2Vob3dobHpqeGpkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg4NDAyNzMsImV4cCI6MjA2NDQxNjI3M30.Ex15JaXuAdtR92zYnc7bwa3-TFCps_948QG8aokpK9o',
       eas: {
         projectId: 'eb0614d8-681a-42c0-a544-faaf7ee6ebe9', // ✅ Critical
       },
